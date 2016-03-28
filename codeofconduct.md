@@ -27,7 +27,7 @@ please contact an organizer immediately.
 
 ### **Nodeschool Hermosillo**
 
-* Organizers:
+#### Organizers:
 - Dayra Chiu [@dayrachiu](https://github.com/dayrachiu)
 - Jayro Salgado [@jrsalgado](https://github.com/jrsalgado)
 - Isaac Zepeda [@keogh](https://github.com/keogh)
