@@ -14,7 +14,7 @@ age, body size, race, nationality, or religious beliefs, deliberate
 intimidation, threats, stalking, following, harassing photography or recording,
 sustained disruption of talks or other events, inappropriate physical contact,
 and unwelcome sexual attention. Sexual language and imagery is not appropriate
-for any events at **Nodeschool Chapter Name** meetups or in any related
+for any events at **Nodeschool Hermosillo** meetups or in any related
 communication channels. Community members asked to stop any harassing behavior
 are expected to comply immediately. Sponsors and presenters are also subject to
 the anti-harassment policy.
@@ -41,7 +41,8 @@ please contact an organizer immediately.
 - Pedro Rojas [@pittnearsoft](https://github.com/pittNearsoft)
 - Rodrigo Yañez [@ryanez](https://github.com/ryanez)
 
-* Meetup URL: [Nodeschool Hermosillo] (http://www.meetup.com/nearsoft/events/229942684/)**
+
+### Meetup URL: [Nodeschool Hermosillo] (http://www.meetup.com/nearsoft/events/229942684/)
 
 **If you have questions or feedback about this Code of Conduct please contact
 one of the organizers.**
