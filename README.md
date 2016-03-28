@@ -7,7 +7,7 @@
 ####  Blvd. Dr. Antonio Quiroga, Quinta Emilia, 83214 Hermosillo, Son.
 
 ## Regístrate: 
-#### Confirma tu asistencia en [meetup] (http://www.meetup.com/es-ES/Nearsoft-Jobs/events/229774808/?eventId=229774808)
+#### Confirma tu asistencia en [meetup] (http://www.meetup.com/nearsoft/events/229942684/?eventId=229942684)
 
 
 _¿Te gustaría ayudarnos como mentor? Crea un [Pull Request](https://github.com/nodeschool/hermosillo/pulls) y agrega tu nombre a la lista._
