@@ -1,3 +1,5 @@
+![NodeSchool HMO](logo/nodeschool-hmo.png)
+
 # NodeSchool Hermosillo, Mexico :school::bear:
 ¿Dudas? [Abre un issue](https://github.com/nodeschool/hermosillo/issues).
 
@@ -6,7 +8,7 @@
 ## Donde: Nearsoft
 ####  Blvd. Dr. Antonio Quiroga, Quinta Emilia, 83214 Hermosillo, Son.
 
-## Regístrate: 
+## Regístrate:
 #### Confirma tu asistencia en [meetup] (http://www.meetup.com/nearsoft/events/229942684/?eventId=229942684)
 
 
